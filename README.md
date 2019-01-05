@@ -4,7 +4,7 @@ A virtual self driving car simulation implemented in TensorFlow.
 
 ## Downloading Dataset
 
-You can download the dataset from [here](Link: https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view)
+You can download the dataset from [here](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view)
 ```
 Size ~ 2.2 GB (45,000 images)
 ```
